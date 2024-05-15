@@ -1,10 +1,10 @@
-package com.boo.demo.example.designpattern.builder.adapter;
+package com.boo.demo.example.designpattern.adapter;
 
-import com.boo.demo.example.designpattern.builder.adapter.impl.V12PowerAdapter;
-import com.boo.demo.example.designpattern.builder.adapter.impl.V5PowerAdapter;
+import com.boo.demo.example.designpattern.adapter.impl.V12PowerAdapter;
+import com.boo.demo.example.designpattern.adapter.impl.V5PowerAdapter;
 
 /**
- * 适配器模式:
+ * 适配器模式 (Adapter Pattern):
  * 作为两个不兼容接口之间的桥梁
  * 定义：将一个类的接口转换成客户期望的另一个接口，适配器让原本接口不兼容的类可以相互合作。
  * 这个定义还好，说适配器的功能就是把一个接口转成另一个接口。

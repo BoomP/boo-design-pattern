@@ -1,4 +1,4 @@
-package com.boo.demo.example.designpattern.builder.adapter;
+package com.boo.demo.example.designpattern.adapter;
 
 /**
  * 提供5v电压的接口

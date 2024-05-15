@@ -1,4 +1,4 @@
-package com.boo.demo.example.designpattern.builder.adapter;
+package com.boo.demo.example.designpattern.adapter;
 
 import lombok.extern.slf4j.Slf4j;
 

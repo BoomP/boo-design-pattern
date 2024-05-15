@@ -1,7 +1,7 @@
-package com.boo.demo.example.designpattern.builder.adapter.impl;
+package com.boo.demo.example.designpattern.adapter.impl;
 
-import com.boo.demo.example.designpattern.builder.adapter.V220Power;
-import com.boo.demo.example.designpattern.builder.adapter.V5Power;
+import com.boo.demo.example.designpattern.adapter.V220Power;
+import com.boo.demo.example.designpattern.adapter.V5Power;
 import lombok.extern.slf4j.Slf4j;
 
 /**
